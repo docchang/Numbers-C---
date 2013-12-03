@@ -1,0 +1,22 @@
+Jen-Fang Chang (608-70-3786)
+ECS 140a, section: 2
+Assignment 3
+
+Files:
+Makefile readme
+Number.cc Number.h
+Integer.cc Integer.h
+Float.cc Float.h
+Complex.cc Complex.h
+Complex_Integer.cc Complex_Integer.h
+Complex_Float.cc Complex_Float.h
+List.cc List.h
+ListIt.cc ListIt.h
+
+Program status:
+Part 1  done
+Part 2  done
+Part 3  done
+Part 4  done
+Part 5  done
+Part 6  done
